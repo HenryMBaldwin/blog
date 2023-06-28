@@ -1,3 +1,4 @@
+
 # Personal Blog
 My Personal blog built using jekyll and the moonwalk theme
 ## Install
@@ -9,4 +10,3 @@ and
 in the cloned directory.
 
 Next, run ```bundle exec jekyll serve``` and the site should be avaliable on localhost:4000
-
