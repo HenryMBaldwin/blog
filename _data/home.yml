@@ -1,16 +1,14 @@
 navbar_entries:
   - title: about
-    url: about
+    url: https://henrymbaldwin.com
 
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
 
 project_entries:
-  - title: Project 1
-    url: overview-post
+  - title: Placecard.com
+    url: placecard.com
     desc: This is an example project, configured in _data/home.yml
 
   - title: Project 2
@@ -54,7 +52,7 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
+  - title: Henry's homepage
     url: https://www.abhinav.co
 
   - title: twitter
