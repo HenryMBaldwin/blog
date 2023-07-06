@@ -7,93 +7,90 @@ navbar_entries:
 
 
 project_entries:
-  - title: Placecard.com
-    url: placecard.com
-    desc: This is an example project, configured in _data/home.yml
+  - title: Placecard
+    url: https://placecard.com
+    desc: Event planning website with RSVP and a smart seating chart algorithm.
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+  - title: Foyager
+    url: https://github.com/FactorioDojo/Foyager
+    desc: A Life Long Learning Agent based on GPT3.5 that learns to play Factorio.
     highlight: WIP
 
-  - title: Project 5
+  - title: Personal Website
+    url: https://henrymbaldwin.com
+    desc: My personal resume website.
+
+  - title: MIDI2Arduino
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    desc: Transpiler that takes MIDI files and translates them to playable Arduino code utilizing the tone library. 
 
-  - title: Project 6
+  - title: One Time Pad Chat
+    url: https://github.com/HenryMBaldwin/OneTimePad_Chat
+    desc: A portable cross-platform peer-to-peer chat application utilizing the One Time Pad Cipher for encrytion.
+
+  - title: IPScan
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Lightweight IP scanner CLI tool. Able to scan both TCP and UPD ports on an IP and Port range.
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+#old_project_entries:
+#  - title: Soopr
+#    url: https://www.soopr.co
+#    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+#    highlight: NEW
+#
+#  - title: Cookie
+#    url: https://github.com/abhinavs/cookie
+#    desc: An open source landing website with supporting pages and integrated blog
+#
+#  - title: Moonwalk
+#    url: https://github.com/abhinavs/moonwalk
+#    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+#
+#  - title: Humangous
+#    url: https://www.humangous.co
+#    desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: Henry's homepage
-    url: https://www.abhinav.co
+    url: https://www.henrymbaldwin.com
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/henry-baldwin-01a614235/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/HenryMBaldwin
 
-  - title: feed
-    url: feed.xml
 
-misc_entries:
-  - title: this is an example vertical list
-    url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+#misc_entries:
+#  - title: this is an example vertical list
+#    url: false
+#
+#  - title: you can show or hide using a boolean flag in _config.yml
+#    url: false
+#
+#  - title: and you can add data in _data/home.yml
+#    url: false
+#
+#  - title: Blog posts
+#    post_list: true
+#    url: false
+#
+#  - title: moonwalk on the Internet
+#    url: false
+#    entries:
+#      - title: on Github
+#        url: https://github.com/abhinavs/moonwalk
+#
+#      - title: originally built for abhinav's homepage
+#        url: https://www.abhinav.co
+#
+#      - title: this list is scalable and can be nested
+#        url: false
+#        entries:
+#          - title: this is nested inside a nested list
+#            url: false
+#
+#          - title: it is easy to use, see _data/home.yml to see how to configure it.
+#            url: false
 
 
